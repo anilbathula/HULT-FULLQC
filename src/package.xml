@@ -1,14 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>AAM_Team_Memeber</members>
-        <members>accountSitecoreRoleTrigger</members>
-        <members>add_fee2finance</members>
-        <members>Addcomments2Application</members>
-        <members>Addcomments2finance</members>
-        <members>AdmissionsEndorsedConfirmed_validation</members>
+        <members>*</members>
         <name>ApexTrigger</name>
     </types>
     <version>15.0</version>
 </Package>
-
